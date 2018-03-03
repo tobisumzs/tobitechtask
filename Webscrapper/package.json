@@ -1,0 +1,19 @@
+{
+  "name": "webscrapper",
+  "version": "0.0.0",
+  "description": "Webscrapper",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "tobi_"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "knwl.js": "^1.0.2",
+    "request": "^2.83.0"
+  }
+}
